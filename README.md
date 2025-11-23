@@ -33,4 +33,9 @@ jupyter notebook Picture_Filter_Numpy.ipynb
 ```
 ## 🖼️ Examples & Outputs
 Detailed examples and explanations of image outputs are available in the article:  
-![Read the full article here](https://github.com/masihch/image-processing-numpy/blob/main/output/corners.png)
+![corners](https://github.com/masihch/image-processing-numpy/blob/main/output/corners.png)
+![filter1](https://github.com/masihch/image-processing-numpy/blob/main/output/filter1.png)
+![filter2](https://github.com/masihch/image-processing-numpy/blob/main/output/filter2.png)
+![filter3](https://github.com/masihch/image-processing-numpy/blob/main/output/filter3.png)
+![compress](https://github.com/masihch/image-processing-numpy/blob/main/output/compress.png)
+![analys](https://github.com/masihch/image-processing-numpy/blob/main/output/analys.png)
