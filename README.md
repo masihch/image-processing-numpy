@@ -31,3 +31,6 @@ Then, run the main Python file directly from the root folder:
 jupyter notebook Picture_Filter_Numpy.ipynb
 
 ```
+## 🖼️ Examples & Outputs
+Detailed examples and explanations of image outputs are available in the article:  
+[Read the full article here](output/corners.png)
